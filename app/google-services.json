@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282275057167",
+    "firebase_url": "https://dsu-equipment-manager-default-rtdb.firebaseio.com",
+    "project_id": "dsu-equipment-manager",
+    "storage_bucket": "dsu-equipment-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282275057167:android:46596074a2b2ec4d9f1d7a",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282275057167-mq1tkrm40g7b4euibbukbakgthd4jpt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv-MMYt2y8a80fEM3OshWmZYrL5Mb9oqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282275057167-mq1tkrm40g7b4euibbukbakgthd4jpt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
